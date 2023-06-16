@@ -68,6 +68,8 @@ h1 { /* Company name */
 .section-menu {
   background: #DAF0F7;
   border: 10px solid lightyellow;
+  border-bottom: 20px;
+  border-bottom-color: lightyellow;
   /*font-size: 1.2em;*/
 
   /*position: relative;

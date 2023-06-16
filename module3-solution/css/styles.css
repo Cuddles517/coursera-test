@@ -56,16 +56,24 @@ h1 { /* Company name */
 #main-content h3 {
   margin-bottom: 20px;
   margin-top: 10px;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: bold;
 }
 
 #main-content p {
   margin-bottom: 20px;
-  font-size: .75em;
+  font-size: .9em;
 }
 
 .section-menu {
   background: #DAF0F7;
-  font-size: 1.5em;
+  border: 10px solid lightyellow;
+  /*font-size: 1.2em;*/
+
+  /*position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;*/
+  /*margin-left: 20px;*/
+  margin: 0 auto 15px; /* auto is for left and right and it will automatically center*/
 }
+

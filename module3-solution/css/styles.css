@@ -1,0 +1,72 @@
+body {
+  color: black;
+  background-color: lightyellow;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #ffc0cb;
+  border-radius: 0;
+  border: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom:10px;
+  border-bottom: 3px solid black;
+}
+
+h1 { /* Company name */
+  font-family: 'Lora', serif;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: .75;
+}
+
+.menu-list {
+  /*background-color: #ffdfe5;*/
+  margin-bottom: 20px;
+}
+
+.item-list {
+  /*background-color: #ffdfe5;*/
+  font-weight: bold;
+  font-size: 1.25em;
+  border-bottom: 1px solid black;
+}
+
+.nav-link {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      height: 100%;
+}
+
+#nav-list a:hover {
+  background: #DAF0F7;
+}
+#main-content h2 {
+  margin-bottom: 20px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#main-content h3 {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+#main-content p {
+  margin-bottom: 20px;
+  font-size: .75em;
+}
+
+.section-menu {
+  background: #DAF0F7;
+  font-size: 1.5em;
+}
